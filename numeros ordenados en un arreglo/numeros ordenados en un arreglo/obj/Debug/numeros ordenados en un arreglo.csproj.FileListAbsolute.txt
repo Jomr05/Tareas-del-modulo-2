@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\bin\Debug\numeros ordenados en un arreglo.exe.config
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\bin\Debug\numeros ordenados en un arreglo.exe
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\bin\Debug\numeros ordenados en un arreglo.pdb
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\obj\Debug\numeros ordenados en un arreglo.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\obj\Debug\numeros ordenados en un arreglo.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\obj\Debug\numeros ordenados en un arreglo.exe
+C:\Users\PC\source\repos\numeros ordenados en un arreglo\numeros ordenados en un arreglo\obj\Debug\numeros ordenados en un arreglo.pdb
